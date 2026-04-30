@@ -61,15 +61,15 @@ USE cinema_db;
 ```
 2. Run the schema file:
 ```sql
-SOURCE schema.sql;
+SOURCE path/to/schema.sql;
 ```
 3. Insert sample data:
 ```sql
-SOURCE data.sql;
+SOURCE path/to/data.sql;
 ```
 4. Run example queries:
 ```sql
-SOURCE queries.sql;
+SOURCE path/to/queries.sql;
 ```
 
 ## Example Queries
