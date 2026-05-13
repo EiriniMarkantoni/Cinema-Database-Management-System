@@ -1,5 +1,5 @@
 -- =========================================================
--- Corrected Cinema Database Schema
+-- Cinema Database Schema
 -- Compatible with MySQL / MariaDB
 -- =========================================================
 
